@@ -1,0 +1,5 @@
+{
+  "name": "Fresh Salad Bar",
+  "description": "A website where customers can order food directly from Fresh Salad Bar, and the owner can manage orders, track expenses, and see exactly how much profit they made each day.",
+  "requestFramePermissions": []
+}
